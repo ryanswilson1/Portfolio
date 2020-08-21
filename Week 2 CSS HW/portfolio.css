@@ -2,6 +2,18 @@
 img {
     float: left;
 }
+
+.display-4
+{
+    text-align: center;
+}
+
+.lead
+{
+    text-align: center;
+}
+
+
 .footer
     {
         position: absolute;
@@ -10,3 +22,5 @@ img {
         border: 3px solid blue;
         text-align: center;
     }
+
+    
